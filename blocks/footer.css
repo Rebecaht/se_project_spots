@@ -1,0 +1,7 @@
+.footer__copyright {
+  background-color:  #fcf5e5;
+  margin: 60px;
+  display: flex;
+  justify-content: center;
+  opacity: 70%;
+}
