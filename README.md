@@ -14,5 +14,5 @@
 
 ## Deployment
   This page is deployed to Github Pages.
-  -Deployment link:
+  -Deployment link:https://rebecaht.github.io/se_project_spots/
 
