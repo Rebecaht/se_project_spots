@@ -34,6 +34,7 @@
 .profile__description {
   color: #212121;
   margin: 0;
+  font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
   display: -webkit-box;
@@ -48,11 +49,17 @@
   font-size: 16px;
   font-weight: 500;
   line-height: 100%;
+  color: #212121;
   margin-top: auto;
   border: none;
   background-color: #fcf5e5;
   opacity: 0.7;
+  display: flex;
   gap: 8px;
+}
+.profile__edit-btn:hover {
+  opacity: 0.4;
+  cursor: pointer;
 }
 
 .profile__add-btn {
@@ -62,10 +69,16 @@
   background: #212121;
   color: #FCF5E5;
   margin-left: auto;
+  border: none;
   border-radius: 8px;
   width: 149px;
   height: 52px;
   margin-top: auto;
+}
+
+.profile__add-btn:hover {
+ opacity: 0.4;
+ cursor: pointer;
 }
 
 @media screen and (max-width:627px) {
