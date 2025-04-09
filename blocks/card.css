@@ -22,10 +22,11 @@
   text-overflow: ellipsis;
   white-space: nowrap;
   overflow: hidden;
+  max-width: 250px;
 }
 
 .card__like-btn {
-  background-image: url(../images/heart3.png);
+  background-image: url(../images/heart.png);
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
@@ -53,6 +54,6 @@
   .card__like-btn {
     width: 20px;
     height: 18px;
-    max-width: 250px;
+
   }
 }
