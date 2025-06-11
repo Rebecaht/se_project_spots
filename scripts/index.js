@@ -24,7 +24,6 @@ editProfileBtn.addEventListener("click", function () {
 
 editProfileCloseBtn.addEventListener("click", function () {
   editProfileModal.classList.remove("modal_is-opened");
-  console.log(5);
 });
 
 newPostBtn.addEventListener("click", function () {
