@@ -51,6 +51,7 @@
   font-weight: 500;
   line-height: 100%;
   font-size: 32px;
+  color: #212121;
 }
 
 .modal__form {
@@ -61,7 +62,8 @@
 .modal__label {
   margin: 0 0 32px;
   font-weight: 500;
-  size: 16px;
+  line-height: 120%;
+  font-size: 20px;
   opacity: 0.4;
 }
 
@@ -77,7 +79,7 @@
 .modal__input::placeholder {
   color: #2121214d;
   font-weight: 500;
-  size: 20px;
+  font-size: 20px;
 }
 
 .modal__submit-btn {
